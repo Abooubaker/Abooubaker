@@ -1,4 +1,4 @@
-<!-- Profile README for github.com/Aboubaker/Aboubaker -->
+<!-- Profile README for github.com/Abooubaker/Abooubaker -->
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aboubaker&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Abooubaker&label=Profile%20Views&color=0e75b6&style=flat-square)
 ![Arch](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Building-00d9a6?style=flat-square)
 
@@ -83,9 +83,9 @@ My tools don’t tremble, and my code doesn’t stutter.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aboubaker/Aboubaker/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aboubaker/Aboubaker/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Aboubaker/Aboubaker/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abooubaker/Abooubaker/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abooubaker/Abooubaker/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Abooubaker/Abooubaker/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -95,7 +95,7 @@ My tools don’t tremble, and my code doesn’t stutter.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aboubaker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aboubaker)
+[![GitHub](https://img.shields.io/badge/GitHub-Abooubaker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abooubaker)
 <!-- Add your own links below, then remove this line
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
