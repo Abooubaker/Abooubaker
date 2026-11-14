@@ -18,7 +18,7 @@
 
 ---
 
-## `> whoami`
+## `> who_am_i`
 
 > *“Precision isn’t a skill. It’s a lifestyle.”*
 
@@ -39,7 +39,7 @@ My tools don’t tremble, and my code doesn’t stutter.
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 ### Languages & Embedded
 
@@ -65,21 +65,20 @@ My tools don’t tremble, and my code doesn’t stutter.
 
 ---
 
-## ⚙️ What I Do
+##  What I Do
 
 | Domain | What it means |
 |---|---|
-| 🔩 **Embedded & Firmware** | Bare-metal and register-level work on STM32 in C, C++ and Assembly |
-| 🧠 **System Design** | Architecting hardware and software as one coherent machine |
-| 🤖 **Machine Learning** | Models that sit alongside the hardware: sensing, inference, control |
-| ⚡ **Electronics** | Circuit design, electrical work, precision soldering |
-| 🛠️ **Mechanical CAD** | SolidWorks modelling, certified at CSWA level |
-| 🎬 **Visuals** | Photoshop manipulation and DaVinci Resolve motion graphics |
-| 🐧 **Linux** | Arch user. I configure my own system and I like it that way |
+|  **Embedded & Firmware** | Bare-metal and register-level work on STM32 in C, C++ and Assembly |
+|  **System Design** | Architecting hardware and software as one coherent machine |
+|  **Machine Learning** | Models that sit alongside the hardware: sensing, inference, control |
+|  **Electronics** | Circuit design, electrical work, precision soldering |
+|  **Mechanical CAD** | SolidWorks modelling, certified at CSWA level |
+|  **Visuals** | Photoshop manipulation and DaVinci Resolve motion graphics |
+|  **Linux** | Arch user. I configure my own system and I like it that way |
 
 ---
 
-## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
