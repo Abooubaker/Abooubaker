@@ -90,15 +90,14 @@ My tools don’t tremble, and my code doesn’t stutter.
 
 ---
 
-## 📫 Connect
+### Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Abooubaker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abooubaker)
-<!-- Add your own links below, then remove this line
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Bsaiso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-bsaiso-a56023321/)
+[![Instagram](https://img.shields.io/badge/Instagram-@abo__baker__e-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abo_baker_e/)
+[![WhatsApp](https://img.shields.io/badge/Phone-+962%2077%20041%206763-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/962770416763)
 
 <br/>
 
